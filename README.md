@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Anita18P
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning  Javascript
+
+
+Thank you:)
+- 
 - 
 - 
 
